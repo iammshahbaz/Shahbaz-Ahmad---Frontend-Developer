@@ -99,7 +99,7 @@ const Navbar = () => {
           </p>
 
           <button 
-  className="mt-8 px-6 py-3 bg-gray-800 text-white rounded-lg hover:bg-gray-700 transition shadow-inner shadow-[inset_0px_0px_32px_16px_rgba(99,242,255,0.1)]"
+  className="mt-8 px-6 py-3 bg-gray-800 text-white rounded-lg hover:bg-gray-700 transition shadow-[inset_0px_0px_32px_16px_rgba(99,242,255,0.1)]"
 >
   Open dApp
 </button>
