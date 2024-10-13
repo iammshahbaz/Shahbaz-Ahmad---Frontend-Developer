@@ -5,6 +5,7 @@ import About from './components/About'
 import Tokenomics from './components/Tokenomics'
 import Roadmap from './components/Roadmap'
 import Faq from './components/Faq'
+import Footer from './components/Footer'
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
      <Tokenomics/>
      <Roadmap/>
      <Faq/>
+     <Footer/>
     
     </>
   )
