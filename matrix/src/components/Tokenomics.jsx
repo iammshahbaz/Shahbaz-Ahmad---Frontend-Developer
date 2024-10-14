@@ -1,5 +1,5 @@
 import React from 'react';
-import donut from "../assets/donut.png";
+import donut from "../assets/Donut.png";
 
 const Tokenomics = () => {
   return (
