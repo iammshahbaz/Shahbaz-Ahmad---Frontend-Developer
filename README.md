@@ -15,6 +15,11 @@ This project was developed as part of a technical interview assignment to demons
 - **Smooth Animations:** Interactive animations are implemented to provide a better user experience.
 - **Responsive Design:** Fully optimized for mobile screens and various device sizes.
 
+## Demonstration Video
+
+Go through the given link for the demonstration of the project.
+https://youtu.be/ujhK9eqrzxk
+
 ## ScreenShots
 
 ![chrome_VzEDsUHNmw](https://github.com/user-attachments/assets/fbfc715a-81c8-491e-8cc1-b62079e3ed48)
