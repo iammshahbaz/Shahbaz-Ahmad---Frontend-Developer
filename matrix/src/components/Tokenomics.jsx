@@ -84,7 +84,7 @@ const Tokenomics = () => {
             </div>
           </div>
 
-          {/* Next */}
+          {/* next */}
           <div className="bg-[#0C2B2FB2] opacity-70 text-white rounded-lg p-6 w-full h-[174px] mt-[14px]">
             <div className="mb-4 flex justify-between">
               <span className="text-[16px] md:text-[20px] font-[400]">Team:</span>
