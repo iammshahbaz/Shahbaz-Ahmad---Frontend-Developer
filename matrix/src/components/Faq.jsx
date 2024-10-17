@@ -13,7 +13,7 @@ const Faq = () => {
 
                 {/* Right Section */}
                 <div className="bg-[#00161D] p-6 rounded-md w-full lg:max-w-lg mx-auto text-white">
-                    {/* Questions */}
+                   
                     {[
                         "What is EthAi?",
                         "How can EthAi help me as a Trader?",

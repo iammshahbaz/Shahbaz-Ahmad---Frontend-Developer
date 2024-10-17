@@ -45,25 +45,49 @@ const Roadmap = () => {
         </div>
 
         {/* Phase 1 Image */}
-        <div className="mt-8 md:mt-0 md:w-1/2">
-          <img
-            src={build}
-            alt="Phase Background"
-            className="w-full h-[300px] md:h-[512px] object-cover rounded-lg"
-          />
-        </div>
+        <div className="mt-8 md:mt-0 md:w-1/2 relative">
+  
+  <video
+    className="absolute top-0 left-0 w-full h-full object-cover rounded-lg z-10"
+    src="https://s3-figma-videos-production-sig.figma.com/video/1304101392342992653/TEAM/037f/7f94/-dbe5-4e84-a0d0-34a0193e07d6?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=k2eVQlf66fcfeu5aqk3pSXxFxARn31u2PoC4aQMKXyDeC3N1vDJzJYPcNFS49mpz78bk6kHNuAWVKLuv-zxdbq9vYGtm7ads4yJNFtvqKYLBwQUQO7c3vUnKbZFeGpZ-rkJx56p3bIEMx~0yREMmXVj1c9OnSeHpxa7tfQfbiHKNAHe5UYyi2lXdQ1LvtmrztHR7TEGQfaDnJOAA-KvNCDX-JelTc-GPb6ZmKtutplhI0nMS9RcfLHJvDS-GwueDeMEhS~vfTnnnuCQNEW8EafGFiB-gN9-Vh6XUUQvXnVRfzJtxY0ABjGKSOODRyzgUTA7ObXOidFjsJh0-cLSbKg__"
+    autoPlay
+    loop
+    muted
+    playsInline
+  />
+  
+  {/* Image element */}
+  <img
+    src={build}
+    alt="Phase Background"
+    className="w-full h-[300px] md:h-[512px] object-cover rounded-lg"
+  />
+</div>
+
       </div>
 
       {/* Phase 2 */}
       <div className="flex flex-col-reverse md:flex-row justify-between items-center mt-[64px] px-4 md:px-0">
         {/* Phase 2 Image */}
-        <div className="mt-8 md:mt-0 md:w-1/2">
-          <img
-            src={preview}
-            alt="Phase Background"
-            className="w-full h-[300px] md:h-[512px] object-cover rounded-lg"
-          />
-        </div>
+        <div className="mt-8 md:mt-0 md:w-1/2 relative">
+
+  <video
+    className="absolute top-0 left-0 w-full h-full object-cover rounded-lg z-10"
+    src="https://s3-figma-videos-production-sig.figma.com/video/1304101392342992653/TEAM/cb86/a228/-0cff-4aa8-9d9a-c49552d1766c?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KTNvAIBzPrPjNmpZXye0ckBOYZnlZ11FzblBWls1xX6FpKLNUTC22YA7nIVDmEZLvgFD7iFevF6mt~ajj12GEDAQkS0yF8JTj9SYctj49p-IOV8ApKCiW0JVJVYbApwJhV1Rh-asA7Bpm2csJkmD~CERIKEZf5YwhR2jrLmPJo7Tn6mMlCCwv6vCHD5r--1sPJsg3CPD-gOVQjIgcHJIpKQqHzm9N-6BtlKY61zc1EWilZ5Z6x8XM0GjXW6PIFpcrmqtPBSoXHeq-BnSW5lzBQJ~BTrQOMkppo5GSGNh54In-LOhKscQQYrRDs0wYLhKoYsAhpo13jO-8yhfjIT92A__"
+    autoPlay
+    loop
+    muted
+    playsInline
+  />
+  
+  {/* Image element */}
+  <img
+    src={preview}
+    alt="Phase Background"
+    className="w-full h-[300px] md:h-[512px] object-cover rounded-lg"
+  />
+</div>
+
 
         {/* Phase 2 Text */}
         <div className="md:mx-[120px] md:pr-[56px] md:pl-[56px] w-full md:w-1/2">
@@ -131,13 +155,24 @@ const Roadmap = () => {
         </div>
 
         {/* Phase 3 Image */}
-        <div className="mt-8 md:mt-0 md:w-1/2">
-          <img
-            src={crp}
-            alt="Phase Background"
-            className="w-full h-[300px] md:h-[512px] object-cover rounded-lg"
-          />
-        </div>
+        <div className="mt-8 md:mt-0 md:w-1/2 relative">
+
+<video
+  className="absolute top-0 left-0 w-full h-full object-cover rounded-lg z-10"
+  src="https://s3-figma-videos-production-sig.figma.com/video/1304101392342992653/TEAM/86e0/aff1/-c5e4-4b3f-b0ee-214e16d683f4?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VIvgvLO64Rv6IWUacSFhIyxGDdrR6J4K7f3mjTT82w2kn99znhte4WUDRgqJNR7x6X9OQ1GahqOzuGxUgxzlKht~nuuF1j-lTFBlYdMGMgL0dqa11rCr-O0U6yonoqLqGxBz7VeaFfRMYwbeo1VMO5xr~r7TkMVNo2084lOnu-Unn9OFqdfP0A~KUfL7jgoVmPGUTN4VoiarZQEQhIqlUUXl2lKH5T8UK9GmpQDpOQHjM6sdSCbm2uXq9V5E0koiN73C3TF9yVZRuGOn1wkg6El2VpeKjoQQKzrrSlaErGKLCueghNT5WzLegJ61EydZ4mZbyyXj64FMXTtIgV7B6A__"
+  autoPlay
+  loop
+  muted
+  playsInline
+/>
+
+
+<img
+  src={crp}
+  alt="Phase Background"
+  className="w-full h-[300px] md:h-[512px] object-cover rounded-lg"
+/>
+</div>
       </div>
     </div>
   );
